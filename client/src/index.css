@@ -1,0 +1,52 @@
+.nav-bg{
+  background-image: url('./assets//images/navbar/Phuket.svg');
+  background-size: cover;
+  background-position: right;
+}
+.nav-style{
+  background-color: #F1F1F1;
+  box-shadow: 0 2px 20px rgb(177, 171, 171);
+}
+.user-header-img{
+  height: 50px;
+  width: 50px;
+}
+.fs-1-1{
+  font-size: 2.9rem;
+}
+.w-50{
+  width: 90%;
+}
+.form-label{
+  margin-bottom: -10px!important;
+  margin-left: 2.9px;
+}
+.cordinat-img{
+  position: absolute!important;
+  height: 59px;
+  left: -10px;
+}
+.bg-home{
+  background-color: #E5E5E5;
+}
+.bookmark-img{
+  top: 10px;
+  right: 10px;
+}
+
+.pos-ab{
+  position: absolute!important;
+}
+.pos-rel{
+  position: relative!important;
+}
+.profile-img{
+  height: 200px;
+  width: 200px;
+}
+.lrg-img{
+  width: 100%;
+}
+.cursor-p{
+  cursor: pointer;
+}
